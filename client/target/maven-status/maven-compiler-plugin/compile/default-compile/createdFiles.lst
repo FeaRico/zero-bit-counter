@@ -1,0 +1,4 @@
+ru/makhach/zerobitcounter/client/Client.class
+ru/makhach/zerobitcounter/client/handler/ByteProcessorHandler.class
+ru/makhach/zerobitcounter/client/handler/CountZeroBitsByteProcessorHandler.class
+ru/makhach/zerobitcounter/client/SocketReader.class

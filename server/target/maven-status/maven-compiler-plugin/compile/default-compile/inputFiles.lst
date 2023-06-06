@@ -1,0 +1,8 @@
+/home/zeus/IdeaProjects/zero-bit-counter/server/src/main/java/ru/makhach/zerobitcounter/server/input/SocketInput.java
+/home/zeus/IdeaProjects/zero-bit-counter/server/src/main/java/ru/makhach/zerobitcounter/server/output/ResultBuilder.java
+/home/zeus/IdeaProjects/zero-bit-counter/server/src/main/java/ru/makhach/zerobitcounter/server/reader/FileReaderImpl.java
+/home/zeus/IdeaProjects/zero-bit-counter/server/src/main/java/ru/makhach/zerobitcounter/server/QueueProcessorImpl.java
+/home/zeus/IdeaProjects/zero-bit-counter/server/src/main/java/ru/makhach/zerobitcounter/server/TaskSender.java
+/home/zeus/IdeaProjects/zero-bit-counter/server/src/main/java/ru/makhach/zerobitcounter/server/reader/FileReader.java
+/home/zeus/IdeaProjects/zero-bit-counter/server/src/main/java/ru/makhach/zerobitcounter/server/QueueProcessor.java
+/home/zeus/IdeaProjects/zero-bit-counter/server/src/main/java/ru/makhach/zerobitcounter/server/Server.java
